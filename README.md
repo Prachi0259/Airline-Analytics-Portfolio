@@ -70,8 +70,6 @@ airline-analytics/
 │   ├── 05_worst_airports.sql
 │   ├── 06_airline_scorecard.sql
 │   └── 07_performance_ranking_cte.sql
-├── dashboard/
-│   └── airline_analytics_portfolio.html
 └── README.md
 ```
 
