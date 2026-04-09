@@ -1,4 +1,4 @@
-# Airline Analytics Portfolio | MySQL · SQL · Power BI
+# Airline Analytics Portfolio | MySQL · SQL 
 
 SQL-based analysis of 51,582 US domestic flights, uncovering delay patterns, route performance, and airline rankings across 14 carriers and 319 airports.
 
@@ -6,7 +6,7 @@ SQL-based analysis of 51,582 US domestic flights, uncovering delay patterns, rou
 
 ## Links
 
-[Live Dashboard](https://prachi0259.github.io/airline-analytics-portfolio) · [LinkedIn](https://www.linkedin.com/in/prachi252/) · [GitHub](https://github.com/Prachi0259)
+[LinkedIn](https://www.linkedin.com/in/prachi252/) · [GitHub](https://github.com/Prachi0259)
 
 ---
 
